@@ -21,7 +21,7 @@
 	url = https://github.com/epics-base/epics-base.git
 [submodule "areaDetector"]
 	path = areaDetector
-	url = https://github.com/areaDetector/areaDetector.git
+	url = https://github.com/NSLS-II/areaDetector.git
 [submodule "motor"]
 	path = motor
 	url = https://github.com/epics-modules/motor.git
