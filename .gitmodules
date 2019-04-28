@@ -22,6 +22,7 @@
 [submodule "areaDetector"]
 	path = areaDetector
 	url = https://github.com/NSLS-II/areaDetector.git
+	branch = add_xspress3
 [submodule "motor"]
 	path = motor
 	url = https://github.com/epics-modules/motor.git
